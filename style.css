@@ -254,12 +254,12 @@ section {
 
 #about {
     position: relative;
-}
+} 
 
 .about-containers{
     gap: 2rem;
     margin-bottom: 2rem;
-    margin-top: 2rem;
+    margin-top: 15rem;
 }
 
 .about-details-container{
@@ -269,7 +269,7 @@ section {
 
 .about-containers,
 .about-details-container{
-    display: flex;
+   display: flex;
 }
 
 .about-pic{
@@ -278,7 +278,7 @@ section {
 .arrow{
     position: absolute;
     right: -5rem;
-    bottom: 2.5rem;
+    bottom: 5rem;
 }
 .details-container{
     padding: 1.5rem;
@@ -302,6 +302,8 @@ section {
 
 #experience{
     position: relative;
+    margin-top: 15rem;
+
 }
 
 .experience-sub-title{
@@ -315,6 +317,7 @@ section {
     display: flex;
     justify-content: center;
     flex-direction: column;
+
 }
 
 .article-container{
